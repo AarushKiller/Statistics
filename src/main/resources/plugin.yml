@@ -1,0 +1,10 @@
+name: Stats
+version: '${project.version}'
+main: me.vrom.stats.GetStatistics
+api-version: 1.18
+authors: [ Vrom ]
+description: A simple plugin to get any stat you want for a player!
+commands:
+  getstats:
+    description: Command to get player Info
+    usage: /getstats

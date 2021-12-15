@@ -1,0 +1,6 @@
+offline: "&cCannot find this player"
+format: "&6%statistic% : &e%value%"
+usage: "&aCorrect usage : /getstats &7<player>"
+permission: "&4&lERROR : &r&cYou can't do that!"
+statistics:
+  - CHEST_OPENED
